@@ -57,6 +57,13 @@ Key Factors Affecting Classification:
 Lighting Conditions
 Object Proportion and Background Complexity
 
+Try running image classification on a variety of images:
+<img width="359" height="389" alt="Screenshot 2025-09-12 at 5 19 59 PM" src="https://github.com/user-attachments/assets/cd5b360a-87d8-4aed-b5f2-213e27ff9ab6" />
+<img width="396" height="393" alt="Screenshot 2025-09-12 at 5 20 10 PM" src="https://github.com/user-attachments/assets/8ef12d33-2ac9-4a08-b01a-71f6563ce292" />
+<img width="396" height="392" alt="Screenshot 2025-09-12 at 5 20 25 PM" src="https://github.com/user-attachments/assets/d57beb41-7f0f-49c7-be1b-e958d4fc8c4a" />
+<img width="395" height="391" alt="Screenshot 2025-09-12 at 5 21 07 PM" src="https://github.com/user-attachments/assets/c2052b7a-1b4e-4a98-bfee-3d7433f16f3f" />
+
+
 Critical Discoveries and Reflections:
 
 a. Training Data Bias: AI models clearly favor Western cultural visual contexts, revealing significant cultural limitations in training datasets and highlighting the non-neutral nature of AI systems.
