@@ -1,0 +1,11 @@
+## Reading Reflection: The Politics of AI Classification
+
+Kate Crawford and Trevor Paglen's "Excavating AI" really hit me when they used Magritte's "This is not a pipe" as a way to think about AI training data. The whole idea that images and their labels aren't just neutral facts but actually reflect whoever had the power to define them makes so much sense. Like, when someone labels a photo as "terrorist" or "normal person," that's not objective truth—that's someone's particular worldview getting baked into the algorithm.
+
+The authors dig into datasets like ImageNet and show how tech companies, researchers, and crowdsourced workers basically get to decide how AI "sees" the world. These classifications then get deployed everywhere and suddenly become the "truth" that affects hiring, policing, healthcare—basically everything.
+
+This really connects to something I've been thinking about with job applications. AI training data labels aren't neutral "truths" but constructions from specific perspectives, which reminds me of how recruitment now relies almost 90% on AI for initial resume screening. Everyone I know has to game their resumes now—tweaking fonts, stuffing in keywords, formatting everything to please the algorithm. Sure, it's more "efficient," but everyone's resume ends up looking exactly the same. We've basically become tools that modify ourselves for AI systems instead of the other way around. It's wild how the AI's preferences become the new standard and human diversity just gets filtered out.
+
+Creating my own sound classifier with Teachable Machine made this super concrete. When I had to decide what counts as "background music" versus "human voice," I realized I was imposing my own cultural background and limited experience onto what the AI would learn. My training data probably excludes tons of accents, languages, or music styles I'm not familiar with. The AI isn't neutral—it's just repeating my biases back to me.
+
+The scary part is how this "treachery" works. AI seems objective and neutral, but it's actually full of human decisions about what matters and what doesn't. When these systems get used at scale, they make those hidden biases feel like natural facts. Crawford and Paglen are basically saying we need to ask: who gets to decide how machines understand our world? Because right now, it's definitely not everyone.
