@@ -13,19 +13,7 @@ Ellen Nickles' work on documenting the provenance of ml5.js models is super impo
 Questions I still have: I'm curious about the demographic diversity of the people in the training datasets for BodyPose and BodySegmentation. Like, does it work equally well for people of different ages, body types, and abilities? I'd also want to know more about the environmental conditions the training data was captured in—different lighting, backgrounds, camera angles. I think these details should definitely be in the model biography because they affect how the model performs in different contexts.
 How this informs my creative process: Knowing the provenance makes me think more critically about what I'm creating. If I know a model has limitations or biases, I can either work within those constraints intentionally or try to subvert them creatively. It also makes me more responsible as a creator—I can't just blame "the AI" if something doesn't work or produces problematic results. Understanding where the model comes from helps me make more informed decisions about when and how to use it.
 
-<img width="567" height="390" alt="Screenshot 2025-09-07 at 4 02 07 PM" src="https://github.com/user-attachments/assets/cb0e911c-e3a5-4b4d-b101-1019067ac569" />
-<img width="629" height="822" alt="Screenshot 2025-09-07 at 4 02 43 PM" src="https://github.com/user-attachments/assets/b6e44b2e-f7ac-4321-90c5-d9cf3bef1eee" />
-<img width="626" height="823" alt="Screenshot 2025-09-07 at 4 02 51 PM" src="https://github.com/user-attachments/assets/6a4c827b-ae5c-4b18-856b-23809f904b62" />
-<img width="420" height="302" alt="background" src="https://github.com/user-attachments/assets/6e5b138a-e09e-41cf-be42-209326c68828" />
-<img width="265" height="190" alt="Screenshot 2025-09-22 at 10 02 17 AM" src="https://github.com/user-attachments/assets/9696fa76-417e-4864-8984-4c0bae8617f5" />
-<img width="1328" height="782" alt="Screenshot 2025-09-23 at 6 21 22 PM" src="https://github.com/user-attachments/assets/9fc75432-8826-4b66-b196-2a3120f1101d" />
-<img width="1038" height="675" alt="Screenshot 2025-09-23 at 6 22 16 PM" src="https://github.com/user-attachments/assets/97eaf2b6-392b-4f3d-91e1-8f47f5c61ead" />
-<img width="833" height="314" alt="Screenshot 2025-09-24 at 5 16 32 PM" src="https://github.com/user-attachments/assets/0307f9c9-eb9d-4639-b748-72d99349fa60" />
-<img width="3024" height="1964" alt="Screenshot 2025-09-24 at 5 18 49 PM" src="https://github.com/user-attachments/assets/65025c40-0572-4b32-a57b-b32c32475c9b" />
-<img width="857" height="305" alt="Screenshot 2025-09-24 at 5 18 52 PM" src="https://github.com/user-attachments/assets/8b3c5b44-6867-45ad-93b7-ab0dda936da9" />
-<img width="824" height="311" alt="Screenshot 2025-09-24 at 5 19 40 PM" src="https://github.com/user-attachments/assets/86f6379b-5f08-455a-80f0-c4e26fb15f10" />
-<img width="826" height="296" alt="Screenshot 2025-09-24 at 5 19 59 PM" src="https://github.com/user-attachments/assets/025a347b-762a-48fe-bd65-62b0f9b63e1b" />
-<img width="472" height="706" alt="Screenshot 2025-09-24 at 5 29 01 PM" src="https://github.com/user-attachments/assets/121be323-dc0a-496a-8ed3-e6bb928b3093" />
-<img width="782" height="95" alt="Screenshot 2025-09-24 at 7 35 24 PM" src="https://github.com/user-attachments/assets/b0c43181-5928-41a5-89a2-ea0c8e4c645d" />
-<img width="1242" height="666" alt="Screenshot 2025-09-28 at 11 34 42 PM" src="https://github.com/user-attachments/assets/700dd9b5-78b9-4cdd-b595-e4c82c0b77c6" />
-<img width="1512" height="982" alt="Screenshot 2025-09-28 at 11 45 37 PM" src="https://github.com/user-attachments/assets/77df2717-0f08-41c6-8cd8-12d2416131c5" />
+Screenshot of Sketchs
+
+<img width="1242" height="666" alt="Screenshot 2025-09-28 at 11 34 42 PM" src="https://github.com/user-attachments/assets/3035200b-efbd-4b83-b57b-6d04c142e6ce" />
+<img width="1512" height="982" alt="Screenshot 2025-09-28 at 11 45 37 PM" src="https://github.com/user-attachments/assets/cc99d73e-de89-4429-a7a1-7fee34b4f851" />
