@@ -2,7 +2,8 @@
 
 **Product URL:** https://shuziren.douyin.com/
 
--
+-<img width="1193" height="695" alt="Screenshot 2025-10-04 at 6 23 32 AM" src="https://github.com/user-attachments/assets/fa56ee1a-dade-49b0-9f57-3293c9813795" />
+
 ## What type of machine learning models did the creator use?
 
 Douyin AI Clone is powered by ByteDance's self-developed Doubao Large Language Model (formerly called Yunque), which is an LLM similar to ChatGPT. What makes it special is its personalized fine-tuning for each creator—the training process includes collecting data, supervised fine-tuning, evaluation and feedback. The model also has continuous learning capabilities, constantly absorbing the creator's speaking style and interaction habits to make the AI clone more and more like the real person. It supports both text and voice interactions, making conversations between fans and the AI clone feel more natural.
