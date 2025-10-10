@@ -6,7 +6,7 @@
 ## Project Overview
 I created an interactive maze game controlled entirely through facial expressions using ml5.js FaceMesh. Players navigate a blue ball through a maze using eye movements and can destroy walls by opening their mouth, creating a unique hands-free gaming experience.
 
-**🔗 Live Demo**: 
+**🔗 Live Demo**: https://github.com/user-attachments/assets/61ce2a08-8d1a-4caa-b143-787401f64366
 
 ---
 
