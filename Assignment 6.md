@@ -11,13 +11,27 @@ The whole thing started when I watched the ml5.js sound classification tutorial.
 ### 1. **Natural Voice Control**
 I wanted voice commands to feel intuitive. Say "UP" to jump, "GO" to attack - simple as that. The key was making it responsive enough for real-time gaming.
 
+
+https://github.com/user-attachments/assets/1ca9ccc9-94e8-49bf-ac72-f79c96d4f7ff
+
+
+
 ### 2. **Auto-Runner Gameplay** 
 Instead of constantly saying "RIGHT" to move, I made the character auto-walk forward. This way, players can focus on the fun stuff - jumping over obstacles and attacking enemies.
+
+
+https://github.com/user-attachments/assets/eeaeff6d-4d53-486b-accd-0bde5550b17a
+
+
 
 ### 3. **Infinite Scrolling Adventure**
 No boring level boundaries! The game generates new platforms, enemies, and coins infinitely as you progress.
 
-## The Bug Hunt 🐛
+
+https://github.com/user-attachments/assets/c58700f1-49f6-4458-9380-1967817cb157
+
+
+
 
 **Problem 1: Enemies not disappearing after attacks**
 ```javascript
