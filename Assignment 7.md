@@ -117,27 +117,9 @@ if (classification === lastClassification) {
 
 ---
 
-## Surprising Discoveries
+## Code Part
 
-### 🔍 More Data Really Matters
-- 5 samples per expression: 60% accuracy
-- 15 samples per expression: 90% accuracy
-- 25+ samples per expression: 95%+ accuracy
-
-### 🧠 The Network Finds Patterns I Didn't Expect
-I thought it would focus on specific keypoints (like mouth corners), but it actually learned holistic face patterns!
-
-### ⚡ Real-Time ML is Fast
-With WebGL backend, classification happens 30-60 times per second—instant feedback!
-
-### 🎨 UX Design Matters in ML
-Small touches like button flashing and progress bars make users confident the system is working.
-
----
-
-## Code Highlights
-
-### Best Practice: Data Normalization
+### Data Normalization
 ```javascript
 classifier.normalizeData(); // ALWAYS do this before training!
 ```
