@@ -22,6 +22,9 @@ My mom is a plant enthusiast who loves watching plant care videos online. She ha
 - Hand gesture interaction systems
 - Time-lapse videos of plant growth and decay
 
+- <img width="430" height="391" alt="Screenshot 2025-11-14 at 5 27 32 PM" src="https://github.com/user-attachments/assets/f968ee50-6bad-49cd-8f1d-361383f53f61" />
+
+
 
 **Challenges:**
 - Setting up the projection system and camera tracking
