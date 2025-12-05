@@ -50,6 +50,7 @@ I began by researching real plant care requirements for each species I wanted to
 - **Basil**: Love moisture and warmth
 - **Oak saplings**: Resilient but slow-growing
 
+
 I searched online for reference images of each plant's visual characteristics—the crimson petals of roses, the sword-like leaves of snake plants, the delicate fronds of ferns—to inform my particle system design.
 
 ---
@@ -57,6 +58,9 @@ I searched online for reference images of each plant's visual characteristics—
 ### Early Exploration: 3D Models
 
 Initially, I uploaded plant photos to **Tripo.ai**, an AI-powered 3D generation tool, which produced mesh models from the 2D images. This gave me structured geometry to work with, but I quickly encountered limitations. The generated models, while visually interesting, felt too static and didn't convey the organic, living quality I wanted. I needed something that could subtly animate to show health states and respond fluidly to user interaction.
+<img width="575" height="532" alt="Screenshot 2025-12-05 at 6 52 34 PM" src="https://github.com/user-attachments/assets/cbc98f13-9d55-4d11-91ab-9d054f6a15ba" />
+<img width="486" height="505" alt="Screenshot 2025-12-05 at 6 58 08 PM" src="https://github.com/user-attachments/assets/328b1ade-3966-4319-a8da-f8b879ab5cea" />
+
 
 ---
 
@@ -81,6 +85,7 @@ I shifted to **Three.js**, a JavaScript 3D library accessed through React Three 
 
 While Three.js required more manual coding than TouchDesigner's visual interface, it gave me the flexibility and control I needed for a production-ready installation.
 
+
 ---
 
 ### Building the Particle System
@@ -93,6 +98,9 @@ The particle system became the heart of the visual experience. Each species has 
 - **Scale multiplier**: Visual variety
 
 The system distributes particles in two zones: a dense cylindrical trunk and a spherical or hemispherical canopy. I used Perlin noise to create organic drift, with each particle following its own phase-offset path that never repeats. Particle colors interpolate between vibrant greens when healthy and dull browns when dying.
+<img width="894" height="700" alt="Screenshot 2025-12-05 at 12 33 08 AM" src="https://github.com/user-attachments/assets/30f4f5c7-fd73-4a57-9d63-dbd4508ae3bb" />
+<img width="886" height="691" alt="Screenshot 2025-12-05 at 12 33 16 AM" src="https://github.com/user-attachments/assets/81e1a73a-09e2-4302-b31a-b32051b0e57d" />
+
 
 ---
 
@@ -105,6 +113,8 @@ The game mechanics evolved through iteration. Early versions used real-time plan
 3. **Morning feedback**: Health changes based on how well care matched plant's ideal ranges
 
 Each plant species has ideal water and sun values plus tolerance ranges. If care falls within tolerance, health increases; deviations cause proportional penalties. This delayed feedback encourages experimentation and helps users understand cause and effect without punishment for momentary mistakes.
+![plant1](https://github.com/user-attachments/assets/8c4aa051-b9be-437b-b241-ecd00b91e3f9)
+
 
 ---
 
@@ -117,6 +127,7 @@ The final integration happened in **Google AI Studio**, which provided a unified
 - **Species selector**: Navigation between different plants with visual transitions
 
 These additions created narrative momentum, transforming isolated care actions into an unfolding story of cultivation.
+<img width="877" height="671" alt="Screenshot 2025-12-05 at 12 52 41 AM" src="https://github.com/user-attachments/assets/4cf21fa9-f0ac-47a8-bd4c-873c2c4f8d48" />
 
 ---
 
@@ -150,7 +161,7 @@ Virtual Plant Care Companion demonstrates how gesture recognition, procedural vi
 
 ## Demo
 
-🔗 [Live Demo](https://plantcareguy.netlify.app) *(Coming soon)*
+🔗 [Live Demo]([https://plantcareguy.netlify.app](https://693367da3ed019fb80b599e2--charming-maamoul-1cff15.netlify.app/)
 
 ---
 
