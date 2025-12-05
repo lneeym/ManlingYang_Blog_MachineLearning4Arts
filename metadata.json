@@ -1,0 +1,7 @@
+{
+  "name": "Aether Flora - AI Plant Care",
+  "description": "An interactive 3D particle plant cared for via hand gestures, powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
