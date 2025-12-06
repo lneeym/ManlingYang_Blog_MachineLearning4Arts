@@ -114,6 +114,7 @@ The game mechanics evolved through iteration. Early versions used real-time plan
 3. **Morning feedback**: Health changes based on how well care matched plant's ideal ranges
 
 Each plant species has ideal water and sun values plus tolerance ranges. If care falls within tolerance, health increases; deviations cause proportional penalties. This delayed feedback encourages experimentation and helps users understand cause and effect without punishment for momentary mistakes.
+
 ![plant1](https://github.com/user-attachments/assets/8c4aa051-b9be-437b-b241-ecd00b91e3f9)
 
 
@@ -128,6 +129,7 @@ The final integration happened in **Google AI Studio**, which provided a unified
 - **Species selector**: Navigation between different plants with visual transitions
 
 These additions created narrative momentum, transforming isolated care actions into an unfolding story of cultivation.
+
 <img width="877" height="671" alt="Screenshot 2025-12-05 at 12 52 41 AM" src="https://github.com/user-attachments/assets/4cf21fa9-f0ac-47a8-bd4c-873c2c4f8d48" />
 
 ---
