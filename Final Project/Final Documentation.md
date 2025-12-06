@@ -58,6 +58,7 @@ I searched online for reference images of each plant's visual characteristics—
 ### Early Exploration: 3D Models
 
 Initially, I uploaded plant photos to **Tripo.ai**, an AI-powered 3D generation tool, which produced mesh models from the 2D images. This gave me structured geometry to work with, but I quickly encountered limitations. The generated models, while visually interesting, felt too static and didn't convey the organic, living quality I wanted. I needed something that could subtly animate to show health states and respond fluidly to user interaction.
+
 <img width="575" height="532" alt="Screenshot 2025-12-05 at 6 52 34 PM" src="https://github.com/user-attachments/assets/cbc98f13-9d55-4d11-91ab-9d054f6a15ba" />
 <img width="486" height="505" alt="Screenshot 2025-12-05 at 6 58 08 PM" src="https://github.com/user-attachments/assets/328b1ade-3966-4319-a8da-f8b879ab5cea" />
 
